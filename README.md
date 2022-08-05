@@ -2,7 +2,6 @@
 <h1 align="left">Hi there, I'm Micheal 👋</h1>
 <h3 align="left">A Computer Science Student at the University of Ibadan</h3>
 
-<img align="right" alt="Coding" src= "https://github.com/Oyebamiji-Micheal/Oyebamiji-Micheal/blob/master/images%20and%20gifs/binary%20codegif.gif" height="300"  width="400">
 
 <p align="left"> <a href="https://twitter.com/michealojuri" target="blank"><img src="https://img.shields.io/twitter/follow/michealojuri?logo=twitter&style=for-the-badge" alt="michealojuri" /></a> </p>
 
