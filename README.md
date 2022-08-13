@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/michealojuri" target="blank"><img src="https://img.shields.io/twitter/follow/michealojuri?logo=twitter&style=for-the-badge" alt="michealojuri" /></a> </p>
 
-- 🔭 I’m currently working on [Algorithms and Data Structures](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode)
+- 🔭 I’m currently working on [SQL](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance) | [Algorithms and Data Structures](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode)
 
 - 🌱 I’m currently learning **DSA, SQL and Data Science**
 
