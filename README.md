@@ -27,7 +27,7 @@
 
 <details>
 <summary>
-<h2 align="left">Tech Stack</h2>
+<h3 align="left">Tech Stack</h3>
 </summary>
 <h3>Languages</h2> <p align="left">
   <a href="https://www.python.org" target="_blank">
