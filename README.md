@@ -9,10 +9,6 @@
 
 - 🌱 I’m currently learning **DSA, SQL and Data Science**
 
-- 👯 I’m looking to collaborate on **Python Open Source projects**
-
-- 💬 Ask me about **Python**
-
 - 📫 Reach me using my gmail **oyebamijimicheal10@gmail.com**
 
 - ⚡ Fun fact: **My role model is Ivuelekwa Stephen 🤫**
@@ -35,9 +31,19 @@
   </a>
   
   <a href="" target="_blank">
-      <img alt="Markdown" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="C" src="https://img.shields.io/badge/c-%2300f.svg?style=for-the-badge&logo=c&logoColor=darkblue&color=black">
   </a>
-
+  
+  <a href="" target="_blank">
+      <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=darkblue&color=white">
+  </a>
+  
+  <a href="" target="_blank">
+      <img alt="Oracle" src="https://img.shields.io/badge/Oracle-777BB4?style=for-the-badge&logo=oracle&logoColor=black&color=darkred">
+  </a>
+  
+  
+  
   <a href="" target="_blank">
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   </a>
@@ -101,7 +107,9 @@
   <a href="" target="_blank">
     <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
   </a>
-
+  <a href="https://docs.djangoproject.com/en/4.1/" target="_blank">
+    <img alt="Django" src="https://img.shields.io/badge/Django-777BB4?style=for-the-badge&logo=django&logoColor=black&color=darkgreen">
+  </a>
 
  </p>
  
@@ -129,4 +137,20 @@
 </summary>
 
 ## ![Oyebamiji Micheal's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=oyebamiji-micheal&show_icons=true&theme=algolia)
+</details>
+
+<details>
+<summary>
+<h3 align="left">Projects</h3>   
+</summary>
+  <ul>
+    <li>
+      <h4 align="left">SQL: 100 Exercises on Structured Query Language</h4>
+      <span>Link: https://sql100.pythonanywhere.com</span>     
+    </li>
+    <li>
+      <h4 align="left">Result Management System Using Python Flask and MySQL</h4>
+      <span>Link: https://rmsnigeria.pythonanywhere.com/</span>
+    </li>
+  </ul>
 </details>
