@@ -5,13 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/michealojuri" target="blank"><img src="https://img.shields.io/twitter/follow/michealojuri?logo=twitter&style=for-the-badge" alt="michealojuri" /></a> </p>
 
-- 🔭 I’m currently working on [SQL](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance) | [Algorithms and Data Structures](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode)
+🔭 I’m currently working on [SQL](https://github.com/Oyebamiji-Micheal/100-Days-of-SQL-Beginner-to-Advance) | [Algorithms and Data Structures](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode)
 
-- 🌱 I’m currently learning **DSA, SQL and Data Science**
+🌱 I’m currently learning **DSA, SQL and Data Science**
 
-- 📫 Reach me using my gmail **oyebamijimicheal10@gmail.com**
+📫 Reach me using my gmail **oyebamijimicheal10@gmail.com**
 
-- ⚡ Fun fact: **My role model is Ivuelekwa Stephen 🤫**
+🏴‍☠️ I write Regular Expressions and SQL queries in my sleep 🙂
+
+⚡ Fun fact: **My role model is Ivuelekwa Stephen 🤫**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
