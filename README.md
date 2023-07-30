@@ -162,3 +162,7 @@
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=oyebamiji-micheal&repo=Result-Management-System-with-Python-Flask-and-MySQL&theme=dark)](https://github.com/Oyebamiji-Micheal/Result-Management-System-with-Python-Flask-and-MySQL)
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=oyebamiji-micheal&repo=Sql100&theme=dark)](https://github.com/Oyebamiji-Micheal/Sql100)
 
+## Check out my Articles :smile:
+<p>
+    <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/1" alt="Article 5">
+</p>
