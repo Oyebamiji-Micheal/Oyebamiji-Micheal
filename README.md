@@ -1,4 +1,4 @@
-<img src="https://github.com/Oyebamiji-Micheal/Oyebamiji-Micheal/blob/master/images%20and%20gifs/roadmap%20resized.jpeg" height="250" width="900">
+<img src="https://github.com/Oyebamiji-Micheal/Oyebamiji-Micheal/blob/master/images%20and%20gifs/roadmap%20resized.jpeg" height="250" width="600">
 <h3 align="left">Hi 👋, I'm Micheal. A Computer Science major </h3>
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;Why+am+I+a+different+Data+Scientist?;Because+I+care+more+about+the+black+box." /></a>
