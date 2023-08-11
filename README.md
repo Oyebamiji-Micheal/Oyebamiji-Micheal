@@ -167,3 +167,25 @@
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/0" alt="Article 0">
       <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/2" alt="Article 5">
 </p>
+
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=oyebamiji-micheal&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+## What I'm Currently Listening To
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=thiei724elvwcervp1qpymi9m&cover_image=true&theme=default&bar_color=18cd1b&bar_color_cover=false" 
+      alt="example"> 
+</p>
+
+
+----
+
+<p align="center">
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+    alt="example" />
+</p>
+
+------
+![](https://hit.yhype.me/github/profile?user_id=101701760)
+
