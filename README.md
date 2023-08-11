@@ -168,6 +168,8 @@
       <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/2" alt="Article 5">
 </p>
 
+<br />
+
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=oyebamiji-micheal&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
