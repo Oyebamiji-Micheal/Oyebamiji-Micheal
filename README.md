@@ -160,12 +160,13 @@
 <h3 align="left">Projects</h3>   
 
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=oyebamiji-micheal&repo=Result-Management-System-with-Python-Flask-and-MySQL&theme=dark)](https://github.com/Oyebamiji-Micheal/Result-Management-System-with-Python-Flask-and-MySQL)
-[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=oyebamiji-micheal&repo=Sql100&theme=dark)](https://github.com/Oyebamiji-Micheal/Sql100)
+[![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=oyebamiji-micheal&repo=Employee-Status-Prediction-Web-App&theme=dark)](https://github.com/Oyebamiji-Micheal/Employee-Status-Prediction-Web-App)
 
 ## Check out my Articles :smile:
 <p>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/0" alt="Article 0">
-      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/2" alt="Article 5">
+      <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/1" alt="Article 1">
+         <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/2" alt="Article 2">
 </p>
 
 <br />
