@@ -22,7 +22,9 @@
 
 <br />
 
-🌱 I’m currently focusing on **Machine Learning and Deep Learning**
+🌱 I’m currently focusing on **MLOps and Deep Learning**
+
+👿 SQL Ninja 
 
 🏴‍☠️ My Superpowers: I write Regular Expressions and SQL queries in my sleep 🙂
 
@@ -38,7 +40,8 @@
 <h2 align="left">Tech Stack</h2>
 </summary>
   
-<h3>Languages</h3> <p align="left">
+### Languages
+<p align="left">
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
@@ -51,6 +54,10 @@
 	  <img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </a>
   
+  <a href="https://www.php.net/" target="_blank">
+    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">	
+  </a>
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
@@ -58,10 +65,11 @@
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   </a>
-
+  
   <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
     <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
   </a>
+</p>
   
 ### Development Tools
 <p>
@@ -203,8 +211,25 @@
 <h2>Major Projects</h2>
 
 | Category           | Project Name                          | Description                                           |
-|:-------------------:|:-------------------------------------:|:-----------------------------------------------------:|
-| 1	| 2	| 3
+|:-------------------:|:-------------------------------------:|-----------------------------------------------------|
+| :rocket: End to End Machine Learning | [Prediction of Mohs Hardness](https://github.com/Oyebamiji-Micheal/Prediction-of-Mohs-Hardness) | A comprehensive showcase of end-to-end machine learning that seamlessly integrates various real-world components including robust data ingestion, validation, and an efficient data cleaning and transformation pipeline 
+| :gear: Machine Learning Projects | [Estimating the Yield of Digital Green Crop](https://github.com/Oyebamiji-Micheal/Estimating-the-Yield-of-Digital-Green-Crop) | An active competition on Zindi which involves estimating the crop yield for farms in India with a focus on Bayesian Optimization
+| | [Stroke Prediction Web App](https://github.com/Oyebamiji-Micheal/Stroke-Prediction-Web-App) | Predicting whether a patient is likely to get a stroke while highlighting and emphasizing the significance of minimizing false negatives (Type I error) to enhance accuracy and risk mitigation. | 
+| | [Employee Status Prediction Web App](https://github.com/Oyebamiji-Micheal/Employee-Status-Prediction-Web-App) | Navigating the complexities of a highly imbalanced dataset by predicting whether an employee will be promoted or not
+| | [Asteriod Diameter Prediction](https://github.com/Oyebamiji-Micheal/Asteriod-Diameter-Prediction) | Benchmarking against a prior work titled "Prediction of Asteroid Diameter with the Help of Multi-Layer Perceptron Regressor" by Victor Basu.
+| | [Bulldozers Sale Price Prediction](https://github.com/Oyebamiji-Micheal/Bulldozers-Sale-Price-Prediction) | A challenging regression task that involves developing a robust predictive model that excels in estimating the sale prices of bulldozers in the heavy equipment industry.
+| | [Youth Income Prediction API](https://github.com/Oyebamiji-Micheal/Youth-Income-Prediction-Challenge-API) | A machine learning web app and API for predicting youth employment based on data from labour market surveys in South Africa |
+| :brain: Deep Learning | [Quora Insincere Questions Classification using TF IDF](https://github.com/Oyebamiji-Micheal/Quora-Insincere-Questions-Classification-using-TF-IDF) | A web app which classifies whether a given quora question is sincere or insincere using TF IDF - A beginner's approach to NLP
+| | [Predicting Disaster Tweets using Bag of Words](https://github.com/Oyebamiji-Micheal/Predicting-Disaster-Tweets-using-Bag-of-Words) | A beginner's approach to NLP 
+| :bar_chart: Data Analysis | [Analysis of Credit Card Transactions](https://github.com/Oyebamiji-Micheal/Analysis-of-Credit-Card-Transactions) | Exploratory Data Analysis of Credit Card Transactions: Uncovering Patterns and Fraud Insights
+| | [Udacity-ALX Data Analyst Nanodegree Program](ALX-data-analyst-nanodegree-program) | Three Data Analysis Capstone Projects
+| | [Data Analysis with Python Zero to Pandas](https://github.com/Oyebamiji-Micheal/Data-Analysis-with-Python-Zero-to-Pandas) | Herein do I start my Data Journey
+| :globe_with_meridians: Web Applications | [SQL100](https://github.com/Oyebamiji-Micheal/Sql100) | 100 questions on structured query language ranging from beginner to advance
+| | [Result Management System with Python Flask and MySQL](https://github.com/Oyebamiji-Micheal/Result-Management-System-with-Python-Flask-and-MySQL) | A web application built with Flask and is meant to simulate a real-world result management system
+| :iphone: Mobile App | [CSC Students Result Management APP](https://github.com/Oyebamiji-Micheal/CSC235-Project) | Built using .Net and Xamarin
+| :bulb: Others | [Intuition Behind the Random Forest Algorithm](Comprehensive-Exploration-of-the-Random-Forest-Regressor-Algorithm) | Let's go camping in the Random Forest
+| | [100 Days of LeetCode](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode) | 100 days learning Algorithms and Data Structures 
+| | [CRUD Operation with PHP and MySQL](https://github.com/Oyebamiji-Micheal/CRUD-operation-with-PHP-and-MySQL) | Just another mumbo jumbo practicing php
 
 <h2>⚡ Top Languages</h2>
 
