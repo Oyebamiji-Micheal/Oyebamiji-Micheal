@@ -35,10 +35,10 @@
 
 <details>
 <summary>
-<h3 align="left">Tech Stack</h3>
+<h2 align="left">Tech Stack</h2>
 </summary>
   
-<h3>Languages</h2> <p align="left">
+<h3>Languages</h3> <p align="left">
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
@@ -64,7 +64,7 @@
   </a>
   
 ### Development Tools
-<p
+<p>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vsCode"/> 
   </a>
@@ -87,7 +87,7 @@
 </p>
 
 ### Database Tools
-<p
+<p>
   <a href="" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </a>
@@ -178,6 +178,7 @@
   <a href="https://railway.app/" target="_blank">
     <img alt="Railway" src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white">
   </a>
+</a>
   
 ### Automation Tools
 <p align="left">  
@@ -197,27 +198,34 @@
     <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">
   </a>
 </p>
-
-### ⚡ Top Languages
-
-## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyebamiji-micheal&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
 </details>
 
-### ⚡ GitHub Stats
+<h2>Major Projects</h2>
+
+| Category           | Project Name                          | Description                                           |
+|:-------------------:|:-------------------------------------:|:-----------------------------------------------------:|
+| 1	| 2	| 3
+
+<h2>⚡ Top Languages</h2>
+
+## [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyebamiji-micheal&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+<h2>⚡ GitHub Stats</h2>
 
 ## ![Oyebamiji Micheal's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyebamiji-micheal&show_icons=true&theme=github_dark)
 
-### 🔥 GitHub Streak Stats 
+<h2>🔥 GitHub Streak Stats</h2>
 
 ## ![Oyebamiji Micheal's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=oyebamiji-micheal&show_icons=true&theme=algolia)
 </details>
 
-<h3 align="left">Major Projects</h3>   
+<h2 align="left">Projects</h2>   
 
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=oyebamiji-micheal&repo=Result-Management-System-with-Python-Flask-and-MySQL&theme=dark)](https://github.com/Oyebamiji-Micheal/Result-Management-System-with-Python-Flask-and-MySQL)
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=oyebamiji-micheal&repo=Employee-Status-Prediction-Web-App&theme=dark)](https://github.com/Oyebamiji-Micheal/Employee-Status-Prediction-Web-App)
 
-## Check out my Articles :smile:
+<h2>Check out my Articles :smile:</h2>
 <p>
     <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/0" alt="Article 0">
       <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@oyebamijimicheal10/1" alt="Article 1">
