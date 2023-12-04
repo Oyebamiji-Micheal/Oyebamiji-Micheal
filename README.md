@@ -43,27 +43,26 @@
     <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   </a>
   
-  <a href="" target="_blank">
-    <img alt="C" src="https://img.shields.io/badge/c-%2300f.svg?style=for-the-badge&logo=c&logoColor=darkblue&color=black">
+  <a href="https://www.r-project.org/" target="_blank">
+    <img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  </a> 
+  
+  <a href="https://www.mysql.com/">
+	  <img alt="MySQL" src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </a>
   
-  <a href="" target="_blank">
-      <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=darkblue&color=white">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   </a>
 
-  <a href="" target="_blank">
-      <img alt="" src="https://img.shields.io/badge/R-230C55A5?style=for-the-badge&logo=oracle&logoColor=black&color=Blue">
-  </a>  
-  
-  <a href="" target="_blank">
-    <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
+    <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   </a>
- 
-  <a href="" target="_blank">
-    <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-  </a>
-  
 
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  </a>
+  
 ### Development Tools
 <p
   <a href="https://code.visualstudio.com/" target="_blank">
@@ -82,18 +81,20 @@
     <img src="https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"
       alt="git"/>
   </a>
-  
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  </a>
 </p>
 
 ### Database Tools
 <p
-     <a href="" target="_blank">
+  <a href="" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
   </a>
-    <a href="" target="_blank">
+  <a href="" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   </a>
-    <a href="" target="_blank">
+  <a href="" target="_blank">
     <img alt="Markdown" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
   <a href="" target="_blank">
       <img alt="Oracle" src="https://img.shields.io/badge/Oracle-777BB4?style=for-the-badge&logo=oracle&logoColor=black&color=darkred">
@@ -106,42 +107,96 @@
 </p>
 
 ### Data Manipulation Tools
-<p  
-  <a href="https://numpy.org/" target="_blank">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
+<p>  
+    <a href="https://numpy.org/" target="_blank">
+        <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
+    </a>
 
    <a href="https://pandas.pydata.org/" target="_blank">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
+       <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
+   </a>
 
    <a href="https://plotly.com/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+       <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
+   </a>
+    
+  <a href="https://spark.apache.org/" target="_blank">
+    <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apache&logoColor=white">
   </a>
-
+  
+  <a href="https://scipy.org/" target="_blank">
+    <img alt="SciPy" src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white">
+  </a>
  </p>
   
 
 ### Machine Learning Tools
-<p
-
+<p align="left">
    <a href="https://scikit-learn.org/" target="_blank">
-    <img alt="Scikit" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+    <img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
    </a>
 
- </p>
+   <a href="https://pytorch.org/" target="_blank">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-red?style=for-the-badge&logo=PyTorch&logoColor=white">
+   </a>
+
+   <a href="https://xgboost.ai/" target="_blank">
+    <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-82B300?style=for-the-badge&logo=XGBoost&logoColor=white">
+   </a>
+
+   <a href="https://www.lightgbm.io/" target="_blank">
+    <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-543797?style=for-the-badge&logo=LightGBM&logoColor=white">
+   </a>
+
+   <a href="https://mlflow.org/" target="_blank">
+    <img alt="MLflow" src="https://img.shields.io/badge/MLflow-2E59D9?style=for-the-badge&logo=mlflow&logoColor=white">
+   </a>
 
 ### Backend Tools
-<p
-  
+<p>
   <a href="" target="_blank">
     <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
   </a>
   <a href="https://docs.djangoproject.com/en/4.1/" target="_blank">
     <img alt="Django" src="https://img.shields.io/badge/Django-777BB4?style=for-the-badge&logo=django&logoColor=black&color=darkgreen">
   </a>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+  </a>
+</p>
 
- </p>
+### Cloud Platforms
+<p align="left">
+  <a href="https://streamlit.io/" target="_blank">
+    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-Cloud-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
+  </a>
+  
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  </a>
+  
+  <a href="https://railway.app/" target="_blank">
+    <img alt="Railway" src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white">
+  </a>
+  
+### Automation Tools
+<p align="left">  
+  <a href="https://www.docker.com/" target="_blank">
+    <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+  </a>
+  
+  <a href="https://jenkins.io/" target="_blank">
+    <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white">
+  </a>
+  
+  <a href="https://github.com/features/actions" target="_blank">
+    <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
+  </a>
+  
+  <a href="https://www.terraform.io/" target="_blank">
+    <img alt="Terraform" src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white">
+  </a>
+</p>
 
 ### ⚡ Top Languages
 
@@ -157,7 +212,7 @@
 ## ![Oyebamiji Micheal's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=oyebamiji-micheal&show_icons=true&theme=algolia)
 </details>
 
-<h3 align="left">Projects</h3>   
+<h3 align="left">Major Projects</h3>   
 
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=oyebamiji-micheal&repo=Result-Management-System-with-Python-Flask-and-MySQL&theme=dark)](https://github.com/Oyebamiji-Micheal/Result-Management-System-with-Python-Flask-and-MySQL)
 [![Dev.to](https://github-readme-stats.vercel.app/api/pin/?username=oyebamiji-micheal&repo=Employee-Status-Prediction-Web-App&theme=dark)](https://github.com/Oyebamiji-Micheal/Employee-Status-Prediction-Web-App)
@@ -170,9 +225,6 @@
 </p>
 
 <br />
-
-## 🏆GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=oyebamiji-micheal&theme=dark&no-frame=false&no-bg=false&margin-w=4)
 
 ## What I'm Currently Listening To
 
