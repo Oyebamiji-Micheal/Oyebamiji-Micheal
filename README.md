@@ -212,12 +212,12 @@
 
 | Category           | Project Name                          | Description                                           |
 |:-------------------:|:-------------------------------------:|-----------------------------------------------------|
-| :rocket: End to End Machine Learning | [Prediction of Mohs Hardness](https://github.com/Oyebamiji-Micheal/Prediction-of-Mohs-Hardness) | A comprehensive showcase of end-to-end machine learning.
+| :rocket: End to End Machine Learning | [Prediction of Mohs Hardness](https://github.com/Oyebamiji-Micheal/Prediction-of-Mohs-Hardness) | A comprehensive showcase of end-to-end machine learning
 | :gear: Machine Learning Projects | [Estimating the Yield of Digital Green Crop](https://github.com/Oyebamiji-Micheal/Estimating-the-Yield-of-Digital-Green-Crop) | Estimating the crop yield for farms in India with a focus on Bayesian Optimization
-| | [Stroke Prediction Web App](https://github.com/Oyebamiji-Micheal/Stroke-Prediction-Web-App) | Highlighting and emphasizing the significance of minimizing false negatives (Type I error) to enhance accuracy and risk mitigation. | 
+| | [Stroke Prediction Web App](https://github.com/Oyebamiji-Micheal/Stroke-Prediction-Web-App) | Highlighting and emphasizing the significance of minimizing false negatives (Type I error) to enhance accuracy and risk mitigation | 
 | | [Employee Status Prediction Web App](https://github.com/Oyebamiji-Micheal/Employee-Status-Prediction-Web-App) | Navigating the complexities of a highly imbalanced dataset by predicting whether an employee will be promoted or not
-| | [Asteriod Diameter Prediction](https://github.com/Oyebamiji-Micheal/Asteriod-Diameter-Prediction) | Benchmarking against a prior work titled "Prediction of Asteroid Diameter with the Help of Multi-Layer Perceptron Regressor" by Victor Basu.
-| | [Bulldozers Sale Price Prediction](https://github.com/Oyebamiji-Micheal/Bulldozers-Sale-Price-Prediction) | A challenging regression task that involves developing a robust predictive model that excels in estimating the sale prices of bulldozers in the heavy equipment industry.
+| | [Asteriod Diameter Prediction](https://github.com/Oyebamiji-Micheal/Asteriod-Diameter-Prediction) | Benchmarking against a Multi-Layer Perceptron Regressor by Victor Basu
+| | [Bulldozers Sale Price Prediction](https://github.com/Oyebamiji-Micheal/Bulldozers-Sale-Price-Prediction) | A robust predictive model that excels in estimating the sale prices of bulldozers in the heavy equipment industry
 | | [Youth Income Prediction API](https://github.com/Oyebamiji-Micheal/Youth-Income-Prediction-Challenge-API) | A machine learning web app and API for predicting youth employment based on data from labour market surveys in South Africa |
 | :brain: Deep Learning | [Quora Insincere Questions Classification using TF IDF](https://github.com/Oyebamiji-Micheal/Quora-Insincere-Questions-Classification-using-TF-IDF) | A web app which classifies whether a given quora question is sincere or insincere using TF IDF - A beginner's approach to NLP
 | | [Predicting Disaster Tweets using Bag of Words](https://github.com/Oyebamiji-Micheal/Predicting-Disaster-Tweets-using-Bag-of-Words) | A beginner's approach to NLP 
