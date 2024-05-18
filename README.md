@@ -221,9 +221,10 @@
 | | [Youth Income Prediction API](https://github.com/Oyebamiji-Micheal/Youth-Income-Prediction-Challenge-API) | A machine learning web app and API for predicting youth employment based on data from labour market surveys in South Africa |
 | :brain: Deep Learning | [Quora Insincere Questions Classification using TF IDF](https://github.com/Oyebamiji-Micheal/Quora-Insincere-Questions-Classification-using-TF-IDF) | A web app which classifies whether a given quora question is sincere or insincere using TF IDF - A beginner's approach to NLP
 | | [Predicting Disaster Tweets using Bag of Words](https://github.com/Oyebamiji-Micheal/Predicting-Disaster-Tweets-using-Bag-of-Words) | A beginner's approach to NLP 
-| :bar_chart: Data Analysis | [Analysis of Credit Card Transactions](https://github.com/Oyebamiji-Micheal/Analysis-of-Credit-Card-Transactions) | Exploratory Data Analysis of Credit Card Transactions: Uncovering Patterns and Fraud Insights
-| | [Udacity-ALX Data Analyst Nanodegree Program](ALX-data-analyst-nanodegree-program) | Three Data Analysis Capstone Projects
-| | [Data Analysis with Python Zero to Pandas](https://github.com/Oyebamiji-Micheal/Data-Analysis-with-Python-Zero-to-Pandas) | Herein do I start my Data Journey
+| :bar_chart: Data Analysis | [Analysis of Credit Card Transactions](https://github.com/Oyebamiji-Micheal/Analysis-of-Credit-Card-Transactions) | Exploratory data analysis of credit card transactions: uncovering patterns and fraud insights
+| | [Exploratory Data Analysis of Cargo Theft Data](https://github.com/Oyebamiji-Micheal/Exploratory-Data-Analysis-of-Cargo-Theft-Data) | Uncovering effective crime prevention strategies
+| | [Udacity-ALX Data Analyst Nanodegree Program](https://github.com/Oyebamiji-Micheal/ALX-data-analyst-nanodegree-program) | Three data analysis capstone projects
+| | [Data Analysis with Python Zero to Pandas](https://github.com/Oyebamiji-Micheal/Data-Analysis-with-Python-Zero-to-Pandas) | Herein do I start my data journey
 | :globe_with_meridians: Web Applications | [SQL100](https://github.com/Oyebamiji-Micheal/Sql100) | 100 questions on structured query language ranging from beginner to advance
 | | [Result Management System with Python Flask and MySQL](https://github.com/Oyebamiji-Micheal/Result-Management-System-with-Python-Flask-and-MySQL) | A web application built with Flask and is meant to simulate a real-world result management system
 | :iphone: Mobile App | [CSC Students Result Management APP](https://github.com/Oyebamiji-Micheal/CSC235-Project) | Built using .Net and Xamarin
