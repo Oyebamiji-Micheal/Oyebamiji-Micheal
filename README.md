@@ -212,7 +212,8 @@
 
 | Category           | Project Name                          | Description                                           |
 |:-------------------:|:-------------------------------------:|-----------------------------------------------------|
-| :rocket: End to End Machine Learning | [Prediction of Mohs Hardness](https://github.com/Oyebamiji-Micheal/Prediction-of-Mohs-Hardness) | A comprehensive showcase of end-to-end machine learning
+| :rocket: End to End Machine Learning | [End to End Customer Churn Prediction using MLflow and DVC](https://github.com/Oyebamiji-Micheal/Prediction-of-Mohs-Hardness](https://github.com/Oyebamiji-Micheal/End-to-End-Customer-Churn-Prediction-using-MLflow-and-DVC)) | Identifying customers who are likely to churn, allowing businesses to take proactive measures to retain them
+| | [Prediction of Mohs Hardness](https://github.com/Oyebamiji-Micheal/Prediction-of-Mohs-Hardness) | Predicting the Mohs hardness of minerals of different chemical spaces, crystal structures, and crystal classes | 
 | :gear: Machine Learning Projects | [Estimating the Yield of Digital Green Crop](https://github.com/Oyebamiji-Micheal/Estimating-the-Yield-of-Digital-Green-Crop) | Estimating the crop yield for farms in India with a focus on Bayesian Optimization
 | | [Stroke Prediction Web App](https://github.com/Oyebamiji-Micheal/Stroke-Prediction-Web-App) | Highlighting and emphasizing the significance of minimizing false negatives (Type I error) to enhance accuracy and risk mitigation | 
 | | [Employee Status Prediction Web App](https://github.com/Oyebamiji-Micheal/Employee-Status-Prediction-Web-App) | Navigating the complexities of a highly imbalanced dataset by predicting whether an employee will be promoted or not
