@@ -1,10 +1,12 @@
 <img src="https://github.com/Oyebamiji-Micheal/Oyebamiji-Micheal/blob/master/images%20and%20gifs/roadmap%20resized.jpeg" height="250" width="600">
-<h3 align="left">Hi 👋, I'm Micheal. A Computer Science major </h3>
+<h3 align="left">Hi 👋, I'm Micheal. A Computer Science major</h3>
 
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;How+am+I+a+different+Data+Scientist?;Because+I+care+more+about+the+black+box." /></a>
-</p>
+<p>I specialize in building real-world, end-to-end machine learning and deep learning solutions. My expertise extends to applying these solutions across various domains such as image recognition, predictive modeling, natural language processing, generative AI, optimization, etc.</p>
 
 <p align ="center">
+  <a  href="https://oyebamiji-micheal.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=Microsoft-edge&logoColor=white" alt="example"/>
+  </a>
   <a href="mailto:oyebamijimicheal10@gmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="example"/>
   </a>
@@ -22,13 +24,11 @@
 
 <br />
 
-🌱 I’m currently focusing on **MLOps and Deep Learning**
+- Currently focusing on **MLOps and Deep Learning**
 
-👿 SQL Ninja 
+- SQL Lover
 
-🏴‍☠️ My Superpowers: I write Regular Expressions and SQL queries in my sleep 🙂
-
-⚡ Random info: **My role model is Ivuelekwa Stephen 🤫**
+- **May the Dev, Ivuelekwa Stephen, who supported me in my early days always live happily 🙏**
 
 <p align="left">
 <a href="https://codeforces.com/profile/def_checker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="def_checker" height="30" width="40" /></a>
@@ -222,6 +222,7 @@
 | | [Youth Income Prediction API](https://github.com/Oyebamiji-Micheal/Youth-Income-Prediction-Challenge-API) | A machine learning web app and API for predicting youth employment based on data from labour market surveys in South Africa |
 | :brain: Deep Learning | [Facial Reconstruction using Conditional Generative Adversarial Network](https://github.com/Oyebamiji-Micheal/Facial-Reconstruction-using-Conditional-Generative-Adversarial-Network) | Reconstructing occluded facial images of celebrities using conditional generative adversarial network
 | | [Dental Open Bite Detection](https://github.com/Oyebamiji-Micheal/Dental-Open-Bite-Detection) | Automatically detecting the presence of dental open bite using traditional convolutional neural network (CNN) and transfer learning
+| | [Tomato Disease Detection using Convolutional Neural Networks and Explainable AI (XAI)](https://github.com/Oyebamiji-Micheal/Tomato-Disease-Detection-using-Convolutional-Neural-Networks-and-Explainable-AI) | Integrating Local Interpretable Model-agnostic Explanations (LIME) with CNN-based classifiers for an explainable detection of tomato diseases
 | | [Maize Disease Detection using CNN](https://github.com/Oyebamiji-Micheal/Maize-Disease-Detection-using-CNN) | Detecting diseases in maize plant leaves using convolutional neural network
 | | [Quora Insincere Questions Classification using TF IDF](https://github.com/Oyebamiji-Micheal/Quora-Insincere-Questions-Classification-using-TF-IDF) | A web app which classifies whether a given quora question is sincere or insincere using TF IDF - A beginner's approach to NLP
 | | [Predicting Disaster Tweets using Bag of Words](https://github.com/Oyebamiji-Micheal/Predicting-Disaster-Tweets-using-Bag-of-Words) | A beginner's approach to NLP 
