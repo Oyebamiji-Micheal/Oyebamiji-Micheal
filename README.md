@@ -213,8 +213,10 @@
 | Category           | Project Name                          | Description                                           |
 |:-------------------:|:-------------------------------------:|-----------------------------------------------------|
 | :rocket: End to End Machine Learning | [End to End Customer Churn Prediction using MLflow and DVC](https://github.com/Oyebamiji-Micheal/End-to-End-Customer-Churn-Prediction-using-MLflow-and-DVC) | Identifying customers who are likely to churn, allowing businesses to take proactive measures to retain them
+| | [Deploying Customer Churn Model to Heroku using Docker and Github Actions](https://github.com/Oyebamiji-Micheal/Deploying-Customer-Churn-Model-to-Heroku-using-Docker-and-Github-Actions) | Deploying a customer churn prediction model using Docker and GitHub Actions for CI/CD to Heroku
 | | [Prediction of Mohs Hardness](https://github.com/Oyebamiji-Micheal/Prediction-of-Mohs-Hardness) | Predicting the Mohs hardness of minerals of different chemical spaces, crystal structures, and crystal classes | 
-| :gear: Machine Learning Projects | [Estimating the Yield of Digital Green Crop](https://github.com/Oyebamiji-Micheal/Estimating-the-Yield-of-Digital-Green-Crop) | Estimating the crop yield for farms in India with a focus on Bayesian Optimization
+| :gear: Machine Learning | [Detection of Social Bots using Machine Learning](https://github.com/Oyebamiji-Micheal/Detection-of-Social-Bots-using-Machine-Learning) | Using Random Forest algorithm to detect automated accounts on Twitter and Instagram
+| | [Estimating the Yield of Digital Green Crop](https://github.com/Oyebamiji-Micheal/Estimating-the-Yield-of-Digital-Green-Crop) | Estimating the crop yield for farms in India with a focus on Bayesian Optimization
 | | [Stroke Prediction Web App](https://github.com/Oyebamiji-Micheal/Stroke-Prediction-Web-App) | Highlighting and emphasizing the significance of minimizing false negatives (Type I error) to enhance accuracy and risk mitigation | 
 | | [Employee Status Prediction Web App](https://github.com/Oyebamiji-Micheal/Employee-Status-Prediction-Web-App) | Navigating the complexities of a highly imbalanced dataset by predicting whether an employee will be promoted or not
 | | [Asteriod Diameter Prediction](https://github.com/Oyebamiji-Micheal/Asteriod-Diameter-Prediction) | Benchmarking against a Multi-Layer Perceptron Regressor by Victor Basu
@@ -223,17 +225,22 @@
 | :brain: Deep Learning | [Facial Reconstruction using Conditional Generative Adversarial Network](https://github.com/Oyebamiji-Micheal/Facial-Reconstruction-using-Conditional-Generative-Adversarial-Network) | Reconstructing occluded facial images of celebrities using conditional generative adversarial network
 | | [Dental Open Bite Detection](https://github.com/Oyebamiji-Micheal/Dental-Open-Bite-Detection) | Automatically detecting the presence of dental open bite using traditional convolutional neural network (CNN) and transfer learning
 | | [Tomato Disease Detection using Convolutional Neural Networks and Explainable AI (XAI)](https://github.com/Oyebamiji-Micheal/Tomato-Disease-Detection-using-Convolutional-Neural-Networks-and-Explainable-AI) | Integrating Local Interpretable Model-agnostic Explanations (LIME) with CNN-based classifiers for an explainable detection of tomato diseases
+| | [T Shirt Sleeve Classification using Convolutional Neural Network](https://github.com/Oyebamiji-Micheal/T-Shirt-Sleeve-Classification-using-Convolutional-Neural-Network) | Classify whether a T-Shirt is long sleeve, short sleeve or sleeveless 
 | | [Maize Disease Detection using CNN](https://github.com/Oyebamiji-Micheal/Maize-Disease-Detection-using-CNN) | Detecting diseases in maize plant leaves using convolutional neural network
+| 💬 Natural Language Processing | [English to Yoruba Translation using RNN](https://github.com/Oyebamiji-Micheal/English-to-Yoruba-Translation-using-RNN) | A beginner's approach to Sequence to Sequence modeling
+| | [Sentiment Analysis of Spotify Songs](https://github.com/Oyebamiji-Micheal/Sentiment-Analysis-of-Spotify-Songs) | Analyzing sentiment in Spotify music dataset using natural language processing techniques | 
 | | [Quora Insincere Questions Classification using TF IDF](https://github.com/Oyebamiji-Micheal/Quora-Insincere-Questions-Classification-using-TF-IDF) | A web app which classifies whether a given quora question is sincere or insincere using TF IDF - A beginner's approach to NLP
-| | [Predicting Disaster Tweets using Bag of Words](https://github.com/Oyebamiji-Micheal/Predicting-Disaster-Tweets-using-Bag-of-Words) | A beginner's approach to NLP 
+| | [Predicting Disaster Tweets using Bag of Words](https://github.com/Oyebamiji-Micheal/Predicting-Disaster-Tweets-using-Bag-of-Words) | A beginner's approach to Natural Language Processing 
 | :bar_chart: Data Analysis | [Analysis of Credit Card Transactions](https://github.com/Oyebamiji-Micheal/Analysis-of-Credit-Card-Transactions) | Exploratory data analysis of credit card transactions: uncovering patterns and fraud insights
 | | [Exploratory Data Analysis of Cargo Theft Data](https://github.com/Oyebamiji-Micheal/Exploratory-Data-Analysis-of-Cargo-Theft-Data) | Uncovering effective crime prevention strategies
+| | [Exploratory Data Analysis of FIFA World Cup Data](https://github.com/Oyebamiji-Micheal/ALX-data-analyst-nanodegree-program/tree/master/Project%20three) | Where the passion for football runs deep, Brazil stands tall. With the highest number of FIFA World Cup victories, they don't just play the game, they define it
 | | [Udacity-ALX Data Analyst Nanodegree Program](https://github.com/Oyebamiji-Micheal/ALX-data-analyst-nanodegree-program) | Three data analysis capstone projects
 | | [Data Analysis with Python Zero to Pandas](https://github.com/Oyebamiji-Micheal/Data-Analysis-with-Python-Zero-to-Pandas) | Herein do I start my data journey
 | :globe_with_meridians: Web Applications | [SQL100](https://github.com/Oyebamiji-Micheal/Sql100) | 100 questions on structured query language ranging from beginner to advance
 | | [Result Management System with Python Flask and MySQL](https://github.com/Oyebamiji-Micheal/Result-Management-System-with-Python-Flask-and-MySQL) | A web application built with Flask and is meant to simulate a real-world result management system
 | :iphone: Mobile App | [CSC Students Result Management APP](https://github.com/Oyebamiji-Micheal/CSC235-Project) | Built using .Net and Xamarin
 | :bulb: Others | [Intuition Behind the Random Forest Algorithm](Comprehensive-Exploration-of-the-Random-Forest-Regressor-Algorithm) | Let's go camping in the Random Forest
+| | [Support Vector Machine from Scratch](https://github.com/Oyebamiji-Micheal/Support-Vector-Machine-from-Scratch) | Implementing support vector machine algorithm from the ground up
 | | [100 Days of LeetCode](https://github.com/Oyebamiji-Micheal/100-Days-of-LeetCode) | 100 days learning Algorithms and Data Structures 
 | | [CRUD Operation with PHP and MySQL](https://github.com/Oyebamiji-Micheal/CRUD-operation-with-PHP-and-MySQL) | Just another mumbo jumbo practicing php
 
